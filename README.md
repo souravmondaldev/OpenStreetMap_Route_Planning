@@ -1,4 +1,4 @@
-# Route Planning Project -- Sourav Mondal
+# Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
 
