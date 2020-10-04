@@ -1,6 +1,6 @@
 #include "route_planner.h"
 #include <algorithm>
-
+#include<bits/stdc++.h>
 RoutePlanner::RoutePlanner(RouteModel &model, float start_x, float start_y, float end_x, float end_y): m_Model(model) {
     // Convert inputs to percentage:
     start_x *= 0.01;
